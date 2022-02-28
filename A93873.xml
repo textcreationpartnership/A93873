@@ -1,0 +1,303 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A poem dedicated to the blessed memory of Her late gracious Majesty Queen Mary By Mr. Stepney.</title>
+            <author>Stepney, George, 1663-1707.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93873</idno>
+            <idno type="STC">Wing S5469</idno>
+            <idno type="STC">ESTC R231580</idno>
+            <idno type="EEBO-CITATION">99896845</idno>
+            <idno type="PROQUEST">99896845</idno>
+            <idno type="VID">137082</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93873)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 137082)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2448:26)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A poem dedicated to the blessed memory of Her late gracious Majesty Queen Mary By Mr. Stepney.</title>
+                  <author>Stepney, George, 1663-1707.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>reprinted for Patrick Campbell, and are to be sold at his shop in Skinner-Row,</publisher>
+                  <pubPlace>[Dublin :</pubPlace>
+                  <date>1695]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Mary --  II, --  Queen of England, 1662-1694 --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb n="1" facs="tcp:137082:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 16 -->
+            <head>A POEM Dedicated to The Bleſſed Memory of Her Late Gracious Majeſty Queen MARY.</head>
+            <byline>By Mr. Stepney.</byline>
+            <lg>
+               <l>ONce more, my Muſe,—we muſt an Altar raiſe;</l>
+               <l>May it prove Laſting, as <hi>Maria</hi>'s Praiſe;</l>
+               <l>And, the Song ended, be the Swan's thy Doom,</l>
+               <l>Reſt ever ſilent, as <hi>Maria</hi>'s Tomb.</l>
+            </lg>
+            <lg>
+               <l>But whence ſhall we begin? Or whither ſteere?</l>
+               <l>Her Vertues like a perfect Round appear,</l>
+               <l>Where Judgment lies in Admiration loſt,</l>
+               <l>Not knowing which it ſhould diſtinguiſh moſt.</l>
+            </lg>
+            <lg>
+               <l>Some Angel, from your own, deſcribe her frame,</l>
+               <l>(For ſure your God-like Beings are the ſame:)</l>
+               <l>All that was Charming in the fairer kind,</l>
+               <l>With manly Senſe, and Reſolution joyn'd;</l>
+               <l>A Meen compos'd of mildneſs, and of ſtate,</l>
+               <l>Not by conſtraint, or affectation great;</l>
+               <l>But form'd by Nature for ſupreme Command;</l>
+               <l>Like <hi>Eve</hi> juſt moulded by the Maker's Hand:</l>
+               <l>Yet ſuch her meekneſs, as half-vail'd the Throne,</l>
+               <l>Leaſt being in too great a luſtre ſhown,</l>
+               <l>
+                  <pb n="2" facs="tcp:137082:2"/>
+                  <!-- PDF PAGE 17 -->
+It might debar the Subject of acceſs,</l>
+               <l>And make her Mercies, and our Comforts leſs.</l>
+               <l>So Gods, of old deſcending from their Sphere</l>
+               <l>To viſit men, like mortals did appear:</l>
+               <l>Leaſt their too awful preſence ſhould affright</l>
+               <l>Thoſe whom they meant to bleſs, and to delight.</l>
+            </lg>
+            <lg>
+               <l>Thus to the Noon of her high Glory run,</l>
+               <l>From her bright Orb, diffuſive like the Sun,</l>
+               <lg>
+                  <l>She did her Healing Influence diſplay,</l>
+                  <l>And cheriſh't all our Nether World that lay</l>
+                  <l>Within the Circle of her radiant Day;</l>
+               </lg>
+               <l>Reliev'd not only thoſe who Bounty ſought,</l>
+               <l>But gave unask'd, and as She gave, forgot;</l>
+               <l>Found modeſt Want in its obſcure Retreat,</l>
+               <l>And courted tim'rous Vertue to be Great.</l>
+               <l>The Church, which <hi>William</hi> ſav'd, was <hi>Mary</hi>'s Care,</l>
+               <l>Taught by her Life, and guarded by her Prayer;</l>
+               <l>What her Devotions were, you Cherubs, tell,</l>
+               <l>Who ever round the Seat of Mercy dwell;</l>
+               <lg>
+                  <l>(For here She wou'd not have her goodneſs known)</l>
+                  <l>But you beheld how ſhe addreſs'd the Throne,</l>
+                  <l>And wonder'd <unclear>at a Zeal</unclear> ſo like your own.</l>
+               </lg>
+            </lg>
+            <lg>
+               <l>Since ſhe was <hi>form'd,</hi> and <hi>lov'd,</hi> and <hi>pray'd</hi> like you,</l>
+               <l>She ſhou'd, alas! have been <hi>Immortal</hi> too:</l>
+            </lg>
+            <lg>
+               <l>A Reign ſo gentle, and a Mind ſo ſtrong,</l>
+               <l>Both made us hope we ſhou'd obey Her long,</l>
+               <l>And, with a double Reverence, have ſeen</l>
+               <l>The hoary Bleſſing of an Aged Queen;</l>
+               <l>Who might, with <hi>William,</hi> jointly govern here,</l>
+               <l>As that bright Pair which rules the heav'nly Sphere.</l>
+            </lg>
+            <lg>
+               <l>Grace and mild Mercy beſt in Her were ſhown,</l>
+               <l>In him the rougher Vertues of the Throne;</l>
+               <l>Of Juſtice <hi>She</hi> at home the <hi>Ballance</hi> held,</l>
+               <l>Abroad, Oppreſſion by <hi>His Sword</hi> was quell'd;</l>
+               <l>True Emblems of the <hi>Lion,</hi> and the <hi>Dove;</hi>
+               </l>
+               <l>The God of Battel, and the Queen of Love</l>
+               <lg>
+                  <l>Did in Their happy Nuptials well agree;</l>
+                  <l>Like <hi>Mars,</hi> He led our Armies out, and She</l>
+                  <l>With Smiles preſided o're Her Native Sea!</l>
+               </lg>
+            </lg>
+            <lg>
+               <pb n="3" facs="tcp:137082:2"/>
+               <!-- PDF PAGE 17 -->
+               <l>Such too their Meetings, when our Monarch came</l>
+               <l>With Laurels loaden, and immortal Fame;</l>
+               <l>As when the God on <hi>Haemus</hi> quits his Arms,</l>
+               <l>Softning his Toyls in <hi>Cytherea</hi>'s Charms:</l>
+               <l>With what Delight wou'd She the Victor meet?</l>
+               <l>And lay the Reins of Empire at his Feet? <note n="*" place="margin">Lucius Quintius.</note>
+               </l>
+               <l>With the ſame Temper as the <hi>Latian Hind</hi>
+               </l>
+               <l>Was made Dictator, conquer'd, and reſign'd;</l>
+               <lg>
+                  <l>So <hi>Pallas</hi> from the duſty Field withdrew</l>
+                  <l>And when Imperial <hi>Jove</hi> appear'd in view,</l>
+                  <l>Reſum'd Her Female <hi>Arts,</hi> the Spindle &amp; the Clew</l>
+               </lg>
+               <l>Forgot the Scepter ſhe ſo well had ſway'd</l>
+               <l>And with that Mildneſs She had Rul'd, Obey'd;</l>
+               <lg>
+                  <l>Pleas'd with the Change, and unconcern'd as <hi>Jove</hi>
+                  </l>
+                  <l>When in Diſguiſe he leaves his Pow'r above,</l>
+                  <l>And drowns all other <hi>Attributes</hi> in Love—</l>
+               </lg>
+               <l>Such, mighty Sir, (if yet the ſacred Ear</l>
+               <l>Of Majeſty and Grief vouchaſe to hear)</l>
+               <l>Was the lov'd Conſort of thy Crown and Bed,</l>
+               <l>Our Joy while living; our Deſpair, now dead.</l>
+            </lg>
+            <lg>
+               <l>Yet why Diſpair? Tho' one Supporter Fall,</l>
+               <l>The ſtronger holds, and will ſuſtain the Ball.</l>
+               <l>Of <hi>Sybill</hi>'s Books, that Volume which remain'd,</l>
+               <l>Th' intrinſick value of the whole retain'd,</l>
+               <l>When in the fiery Car <hi>Elijah</hi> fled,</l>
+               <l>His Spirit doubled on his Partner's Head:</l>
+               <l>So will thy Peoples Love, now <hi>Mary</hi>'s gone,</l>
+               <l>Unite both Streams and flow on Thee alone,</l>
+               <l>The grateful Senate with one Voice combine</l>
+               <l>To breath their Sorrows, and to comfort Thine,</l>
+               <l>By bringing to thy View how <hi>Europe</hi>'s Fate</l>
+               <l>Does on Thy Councills, and Thy Courage wait:</l>
+               <l>But when the vaſtneſs of Thy Grief they ſee,</l>
+               <l>They own 'tis juſt, and melt in Tears with Thee.</l>
+            </lg>
+            <lg>
+               <l>Bluſh not, great Soul, thus to reveal Thy woe;</l>
+               <l>Sighs will have vent, and Eyes too full o're-flow;</l>
+               <l>Shed by degrees they paſs unfelt away;</l>
+               <l>But raiſe a ſtorm and Deluge where they ſtay.</l>
+            </lg>
+            <lg>
+               <l>The Braveſt Heroes have the ſofteſt Mind,</l>
+               <l>Their Natures like the Gods, to Love inclin'd,</l>
+               <l>
+                  <pb n="4" facs="tcp:137082:3"/>
+                  <!-- PDF PAGE 18 -->
+                  <hi>Homer,</hi> who Humane Paſſions nicely knew,</l>
+               <l>When his Illuſtrious <hi>Grecian</hi> Chief he drew,</l>
+               <l>Left likewiſe in his <hi>Soul</hi> one mortal part,</l>
+               <l>Whence <hi>Love</hi> and <hi>Anguiſh</hi> too might reach his heart;</l>
+               <l>For a loſt Miſtreſs, in Deſpair he ſate,</l>
+               <l>And let declining <hi>Troy</hi> ſtill ſtruggle with her Fate:</l>
+               <l>But when he found his dear <hi>Patroclus</hi> dead,</l>
+               <l>Like a rous'd Lion, from his Tent he fled,</l>
+               <l>Whole Hecatombs of trembling <hi>Trojans</hi> flew,</l>
+               <l>And mangled <hi>Hector</hi> at his Chariot drew.</l>
+            </lg>
+            <lg>
+               <l>Still greater is thy loſs—Be ſuch thy rage,</l>
+               <l>That naught but conquer'd <hi>Gallia</hi> may aſſwage.</l>
+            </lg>
+            <lg>
+               <l>She, who below, preſerv'd Thee with her Prayer,</l>
+               <l>Above, will prove thy Guardian Angel there;</l>
+               <l>And hov'ring round Thee with her heav'nly ſhield,</l>
+               <l>Unſeen, protect Thee in the dusky Field.</l>
+               <l>Glut then Thy Vengeance on Thy deſtin'd Foe,</l>
+               <l>And while above She Triumphs, Fight below.—</l>
+            </lg>
+            <lg>
+               <l>'Tis done—Our Monarch to the Camp returns,</l>
+               <l>The <hi>Gallick</hi> Armies <gap reason="illegible" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>y—<gap reason="illegible: bleedthrough" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible: bleedthrough" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>avy burns,</l>
+               <l>And Earth and Seas all bow to his Command,</l>
+               <l>And <hi>Europe</hi> owns her Peace from his victorious hand</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>DUBLIN, Reprinted for</hi> Patrick Campbell, <hi>and are to be ſold at His Shop in Skinner-Row.</hi> 1695.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
